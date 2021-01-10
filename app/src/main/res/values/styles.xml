@@ -8,4 +8,8 @@
         <item name="fontFamily">@font/font_l</item>
     </style>
 
+    <style name="BottomNavBar" parent="AppTheme">
+        <item name="android:textStyle">normal</item>
+    </style>
+
 </resources>

@@ -31,5 +31,7 @@ dependencies {
 
     implementation "androidx.cardview:cardview:1.0.0"
 
+    //BottomNavigation Library
+    implementation 'com.github.ibrahimsn98:SmoothBottomBar:1.7.6'
 
 }
